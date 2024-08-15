@@ -8,10 +8,10 @@
 
 <br>
 
-- I'm a student of Computer Engineering
-- I enjoy both Frontend and Backend development
-- Passionate about Electronics
-- Currently learning Web Development by Self
+🎓 Student of Computer Engineering
+💻 Enjoys both Frontend and Backend Development
+⚡ Passionate about Electronics
+📚 Currently Learning Web Development by Self
 
 <br><br>
 
